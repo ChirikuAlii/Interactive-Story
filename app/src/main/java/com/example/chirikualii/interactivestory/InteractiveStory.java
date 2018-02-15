@@ -1,3 +1,5 @@
+package com.example.chirikualii.interactivestory;
+
 import android.app.Activity;
 import android.app.Application;
 import android.content.pm.ActivityInfo;
